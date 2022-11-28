@@ -1,4 +1,4 @@
-# Gulp - сборка Vitaly Koiro
+# Gulp - сборка NeGomik
 
 > Используется Gulp 4
 
